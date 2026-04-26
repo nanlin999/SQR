@@ -11,7 +11,7 @@ It can be used to reproduce the simulation studies in the following paper:
 Install the quantreg package before using the SQR function. 
 ```
 
-## Code for testing PIQR
+## Code for testing SQR
 ```
 install.packages("quantreg")
 library(quantreg)
